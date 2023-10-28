@@ -10,7 +10,7 @@
 
     - git config --local user.name "My Name"
     - git config --local user.email myEmail@example.com
-	- git clone
+    - git clone
     - init
     - status
     - add
