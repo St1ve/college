@@ -28,7 +28,7 @@
 
     В коммит попадает, то что в состоянии Staging, чтобы добавить в Stagin, воспользуйтесь `add`
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 ### Ветки
 
